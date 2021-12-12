@@ -5,14 +5,14 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.5.0</version>
+		<version>2.6.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>U3_CarranzaAlan_API</artifactId>
+	<groupId>utez.edu.mx.controlgastos</groupId>
+	<artifactId>Control-gastos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>U3_CarranzaAlan_API</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Aplicación para control gastos pwa</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
@@ -23,7 +23,7 @@
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-web-services</artifactId>
+			<artifactId>spring-boot-starter-validation</artifactId>
 		</dependency>
 
 		<dependency>

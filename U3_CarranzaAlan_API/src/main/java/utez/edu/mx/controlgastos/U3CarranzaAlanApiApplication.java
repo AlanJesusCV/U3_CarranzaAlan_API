@@ -1,4 +1,4 @@
-package com.example;
+package utez.edu.mx.controlgastos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
